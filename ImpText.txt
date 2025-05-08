@@ -1,0 +1,27 @@
+Overview
+----- Dahboard
+
+
+Main Menu
+----- Employee
+----- Recruitment
+----- Payroll
+
+Department
+----- Marketing
+----- Designng
+----- Development
+----- Mannagement
+
+Settings
+----- Leagal
+        |----- Privacy policy
+        |----- Terms & Conditions
+----- Help center
+----- Logout
+
+
+NEXTAUTH_URL = http://localhost:3000
+NEXTAUTH_SECRET= /Nj6UcG5Nr80eN2VBkmo+9paL7WgC8Gzd8mTSme8Tlc=
+GITHUB_ID = Ov23lipKZSBiDGH7a3pV
+GITHUB_SECRET = e0844a9afa15c03175cc4704ca0e0e6db152d06d
